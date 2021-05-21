@@ -10,6 +10,6 @@ While our experiments didn’t result in improved accuracy, a refocus on lower f
 
 # Implementation Details
 
-Prior to running any code, please download the data files from https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data. Once downloaded, please open and run Low_Cost_Methods (1).ipynb in Google Colab.
+Prior to running any code, please download the data files from https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data. Once downloaded, please open and run Low_Cost_Methods.ipynb in Google Colab.
 
 A write-up of our design, results, and discussion can be found in low_cost_methods.docx.
